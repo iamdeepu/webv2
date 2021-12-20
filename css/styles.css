@@ -2,6 +2,7 @@ body {
     margin: 0px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
     color: #545454;
 }
 
@@ -155,11 +156,6 @@ span{
     color: #53c7ae;
     margin: 35px;
     text-decoration: none;
-    font-size: 1.2rem;
-}
-
-.footer-link:hover{
-    color: #777777;
 }
 .copyright{
     color: #53c7ae;
@@ -168,8 +164,6 @@ span{
   font-weight: 100;
   font-size: 1.2rem;
 }
-
-
 
 @media (max-width: 1000px) {
     .bottom-cloud{
@@ -182,7 +176,32 @@ span{
         margin: auto;
     
     }
+
+    .skill-row{
+        width: 75%;
+        margin: 80px auto;
+        text-align: left;
+    }
+    
+    .design-img{
+        width: 35%;
+        float: left;
+        
+    }
+    
+    .develop-img{
+        width: 35%;
+        float: right;
+        margin-left: 30px;
+    }
+    
+    .contact-me{
+        width: 70%;
+    }
     
 }
+
+
+
 
 
