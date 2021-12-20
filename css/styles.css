@@ -204,6 +204,10 @@ span{
     .contact-me{
         width: 70%;
     }
+
+    .footer-link{
+        font-size: 1.5rem;
+    }
     
 }
 
